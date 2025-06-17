@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: xyzo4g51l-dotnet-basic-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/xyzo4g51l-dotnet-basic-gitops
